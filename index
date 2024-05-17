@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tool - project</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!--Cabeçalho-->
+        <div class="header">
+            <h1 class="main-title">Tool</h1>
+            <p class="main-paragraph">A rock band from Los Angeles</p>
+        </div>
+        <!--Imagem de destaque-->
+        <div class="featured-image">
+            <figure>
+                <img src="img/banda.jpeg" alt="Tool band">
+                <figcaption>Adam, Justin, Maynard and Danny</figcaption>
+            </figure>
+        </div>
+        <!--Biografia-->
+        <div class="biography-container">
+            <h2>The beggining of the band</h2>
+            <p>
+                Band members moved to Los Angeles in the 80's. 
+                At first, <span class="bolder">Maynard Keenan and Adam Jones</span> met each other through an mutual friend.
+                They all worked in different jobs before that.
+            </p>
+            <p>
+                After a while, <span class="bolder">Danny Carey</span> offered to play 
+                in the band, because he felt bad that no other drummer would 
+                join the band.
+            </p>
+            <p>
+                They're first album, called <span class="bolder">Undertow</span> was marked 
+                with heavy metal style, 
+                what was going to change forever after through next albums.
+            </p>
+        </div>  
+        <!--Container de citação-->
+        <div class="quotes-container">
+            <blockquote>
+                "If I'd been ranting and raving for years, 
+                you wouldn't be listening to me right now"
+            </blockquote>
+            <p>Maynard James Keenan</p>
+        </div>
+            <!--Curiosidades da banda-->
+            <div class="curiosities-container">
+                <h2>Interesting facts:</h2>
+                <ul>
+                    <li>Tool has won four Grammys, performing worldwide tours</li>
+                    <li>Danny Carey doesn't use click on stage to play drums</li>
+                    <li>Adam Jones made special effects for some important music videos</li>                    
+                </ul>
+            </div>
+        </div> 
+        <!--Segunda citação-->
+        <div class="blockquote">
+            <blockquote>
+                "Recognize this as a holy gift and Celebrate this chance to be 
+                 alive and breathing."
+            </blockquote>
+        <p>Tool - Parabola</p>
+        </div>
+        <!--Segunda imagem-->
+        <div class="img-bold">
+            <figure>
+                <img src="img/maynard.jpeg" alt="Maynard em um show">
+                <figcaption>Maynard performing at a show</figcaption>
+            </figure>
+            <!--Mais informacoes-->
+            <div class="moreinfo-container">
+                <h2>More informations:</h2>
+                <p>
+                    Know more about the band by <a href="https://en.wikipedia.org/wiki/Tool_(band)">clicking here</a>
+                </p>
+            </div>            
+        </div>
+    </div>
+    
+</body>
+</html>
