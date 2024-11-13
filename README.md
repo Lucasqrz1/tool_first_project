@@ -1,1 +1,1 @@
-Project is still undergoing.
+Project is still ongoing.
